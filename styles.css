@@ -1,0 +1,31 @@
+background-color{
+   color:  #fffbf7;
+}
+
+
+#title{
+    color: #025157;
+    text-align: center;
+}
+
+.texto1{
+    color: #46484c;
+}
+
+.promocional{
+    color:   #8b8b8bcc;
+}
+
+.boton{
+    color: #fff;
+    background-color: #025157;
+
+}
+
+#subtitle{
+    color: royalblue;
+}
+
+.image{
+    position: relative;
+}
