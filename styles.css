@@ -5,6 +5,7 @@ background-color{
 
 #title{
     color: #025157;
+    text-align: center;
 }
 
 .texto1{
@@ -17,8 +18,14 @@ background-color{
 
 .boton{
     color: #fff;
+    background-color: #025157;
+
 }
 
 #subtitle{
     color: royalblue;
+}
+
+.image{
+    position: relative;
 }
